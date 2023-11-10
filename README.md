@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ... all
 - 📫 How to reach me ... my [Email](mailto:evandrosantosafonso@live.com)
 
-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ordnav3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ordnav3&layout=compact&langs_count=7&theme=dracula"/>
 
 <!---
