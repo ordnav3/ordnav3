@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ordnav3 || Evandro Santos Afonso
 - 👀 I’m interested in ... in learn
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning ...
+  
+   <br>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" />,
@@ -8,8 +10,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" width="40" height="40"/>,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>,
 and soon <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
+<br>  
 
-          
 - 💞️ I’m looking to collaborate on ... all
 - 📫 How to reach me ... my [Email](mailto:evandrosantosafonso@live.com)
 
