@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ordnav3 || Evandro Santos Afonso
 - 👀 I’m interested in ... in learn
-- 🌱 I’m currently learning ... JavaScript, Css, HTML, and soon Java
+- 🌱 I’m currently learning ... 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          , Css, HTML, and soon Java
 - 💞️ I’m looking to collaborate on ... all
 - 📫 How to reach me ... my [Email](mailto:evandrosantosafonso@live.com)
 
