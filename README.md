@@ -12,13 +12,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>,
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40" />
 
+### Detalhes
 ![ordnav3 GitHub stats](https://github-readme-stats.vercel.app/api?username=ordnav3&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ordnav3&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/ordnav3/ordnav3/blob/output/github-contribution-grid-snake.svg)
-
-<!---
-ordnav3/ordnav3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
