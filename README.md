@@ -17,6 +17,9 @@ and soon <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jav
 <a href="https://github.com/seu-ordnav3">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ordnav3&layout=compact&langs_count=7&theme=dracula"/>
 
+(https://github-readme-stats.vercel.app/api?username=ordnav3&hide=contribs,prs)
+
+
 
 <!---
 ordnav3/ordnav3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
