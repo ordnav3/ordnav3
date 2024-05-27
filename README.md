@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ordnav3&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![Snake animation](https://github.com/ordnav3/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ordnav3/ordnav3/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 ordnav3/ordnav3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
