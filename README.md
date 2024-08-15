@@ -19,5 +19,5 @@
 ## Contatos:
 <div>
 <a href = "mailto:evandrosantosafonso@live.comi"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/evandrosantosafonso@live.com" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="[https://www.linkedin.com/in/evandrosantosafonso@live.com](https://www.linkedin.com/in/evandro-santos-afonso-7ba383104/overlay/about-this-profile/)" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
