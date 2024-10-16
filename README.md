@@ -51,6 +51,6 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
 ## Contatos:
 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:evandrosantosafonso@live.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ordnav3)  [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Ordnav3)  [![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/ordnav3/)  
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:evandrosantosafonso@live.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ordnav3/)  [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/Ordnav3)  [![Reddit](https://img.shields.io/badge/Reddit-000?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/ordnav3/)  
 
 
