@@ -24,8 +24,9 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40" height="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" width="40" height="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="80" height="80"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
 </div>
+
 ---
 
 ## Estou Aprendendo:
