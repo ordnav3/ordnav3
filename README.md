@@ -31,7 +31,7 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato!
 
 ## Estou Aprendendo:
 <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" height="80/> 
 </div>
 
 ---
